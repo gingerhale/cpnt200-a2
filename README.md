@@ -1,13 +1,13 @@
 # cpnt200
 - Assignment 2: Strapi Project and Model
 - Haley Dickson
-- [Sitemap](https://www.figma.com/file/PXx7QZD4N3K6i7A9oeEMUB/cpnt200-a1-sitemap?node-id=0%3A1&t=Gcx7OdfxjRb5rfn2-1)
+- [Sitemap Figma](https://www.figma.com/file/PXx7QZD4N3K6i7A9oeEMUB/cpnt200-a1-sitemap?node-id=0%3A1&t=Gcx7OdfxjRb5rfn2-1)
 
-## Attributes
-Images 
+# Attributes
+## Images 
 - [Unsplashed](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
-Reference Sites
+## Reference Sites
 - [North Western Volleyball Club](https://www.wolvesvolleyball.ca/)
 - [Sait Trojans Volleyball](https://www.saittrojans.com/sports/wvball/index)
 
@@ -17,10 +17,10 @@ Reference Sites
 
 
 # Extras
-**Relations**
+## Relations
 - one to many: Product categories to products
 - many to many: Coaches to teams
-**Components**
+## Components**
 - link: used in the event component, in team collection type
 - start date to end date: used in SeasonDurations, in team collection type
 - start time to end time: used in event component, in team collection type, in upcoming practices
