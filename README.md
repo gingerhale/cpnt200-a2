@@ -16,7 +16,6 @@
 - This website targets young volleyball players and/or their parents to provide information about the program as well as resources to buy team merchanise. The site allows for athletes/parents to see which team they are elligible for, who else is playing for that team, who is coaching the team and when the teams events are. The site also dpoubles as a store, merchandise is available for purchase as well as custom name and numbering on products. The site looks a little more like a college volleyball site to allow for each player to have a place on site.  
 
 
-# Extras
 ## Relations
 - one to many: Product categories to products
 - many to many: Coaches to teams
