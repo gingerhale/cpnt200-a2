@@ -20,7 +20,7 @@
 ## Relations
 - one to many: Product categories to products
 - many to many: Coaches to teams
-## Components**
+## Components
 - link: used in the event component, in team collection type
 - start date to end date: used in SeasonDurations, in team collection type
 - start time to end time: used in event component, in team collection type, in upcoming practices
